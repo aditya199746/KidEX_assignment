@@ -1,5 +1,7 @@
-.App {
+Body {
   font-family: "PT Sans";
+  margin-top: 50px;
+
   color: white;
   background-color: black;
 }

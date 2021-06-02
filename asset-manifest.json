@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KidEX_assignment/static/css/main.d8d1928f.chunk.css",
+    "main.js": "/KidEX_assignment/static/js/main.58964894.chunk.js",
+    "main.js.map": "/KidEX_assignment/static/js/main.58964894.chunk.js.map",
+    "runtime-main.js": "/KidEX_assignment/static/js/runtime-main.327814d7.js",
+    "runtime-main.js.map": "/KidEX_assignment/static/js/runtime-main.327814d7.js.map",
+    "static/js/2.e9c2552b.chunk.js": "/KidEX_assignment/static/js/2.e9c2552b.chunk.js",
+    "static/js/2.e9c2552b.chunk.js.map": "/KidEX_assignment/static/js/2.e9c2552b.chunk.js.map",
+    "index.html": "/KidEX_assignment/index.html",
+    "static/css/main.d8d1928f.chunk.css.map": "/KidEX_assignment/static/css/main.d8d1928f.chunk.css.map",
+    "static/js/2.e9c2552b.chunk.js.LICENSE.txt": "/KidEX_assignment/static/js/2.e9c2552b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.327814d7.js",
+    "static/js/2.e9c2552b.chunk.js",
+    "static/css/main.d8d1928f.chunk.css",
+    "static/js/main.58964894.chunk.js"
+  ]
+}

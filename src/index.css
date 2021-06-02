@@ -1,5 +1,6 @@
 .caret {
   cursor: pointer;
+
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -8,17 +9,17 @@
 
 .caret::before {
   content: "\25B6";
-  color: black;
+  color: grey;
   display: inline-block;
   margin-right: 6px;
 }
 
-/* .caret-down::before {
-  -ms-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  transform: rotate(90deg);
-} */
-
 .caret-down::before {
+  content: "\25B6";
+
+  display: inline-block;
+  color: green;
   transform: rotate(90deg);
 }
+
+

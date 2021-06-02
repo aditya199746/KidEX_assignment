@@ -6,7 +6,7 @@ import "../../node_modules/bootstrap/dist/css/bootstrap.min.css"
 
 const StyledFolder = styled.div`
   padding-left: 20px;
-background-color: lightgrey;
+
   .folder--label {
     display: flex;
     align-items: center;
@@ -33,7 +33,7 @@ const Folder = ({ name, children }) => {
   };
 return (
     <StyledFolder>
-      <div className="folder--label caret" className={isActive ? "caret" : "caret-down"} onClick={handleToggle}>
+      <div className="folder--label" className={isActive ? "caret" : "caret-down"} onClick={handleToggle}>
         <AiOutlineFolder style={{color:"blue", fontSize:"xx-large" }} />
         <span>{name}</span>
       </div>

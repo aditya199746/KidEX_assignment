@@ -28,6 +28,7 @@ const TreeRecursive = ({ data }) => {
 };
 const Tree = ({ data, children }) => {
   const isImparative = data && !children;
+ 
 
   return (
     <StyledTree>
